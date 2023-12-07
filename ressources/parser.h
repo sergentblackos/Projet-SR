@@ -16,6 +16,7 @@ struct TrainData {
     int nbTrains;
 };
 
+// DÃ©claration de la fonction parseur
 struct TrainData parseur();
 
 #endif /* PARSER_H */
