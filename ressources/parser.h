@@ -17,6 +17,6 @@ struct TrainData {
 };
 
 // DÃ©claration de la fonction parseur
-struct TrainData parseur();
+struct TrainData parseur(const char* fichier);
 
 #endif /* PARSER_H */
